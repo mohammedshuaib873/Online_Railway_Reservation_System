@@ -16,7 +16,6 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public List<TrainDetails> getAllDetails() {
-		
 		return null;
 	}
 
